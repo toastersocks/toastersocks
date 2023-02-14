@@ -1,6 +1,8 @@
-### Hi there 👋 I'm James Pamplona, I’m an iOS Developer passionate about developing software, creating solutions, and helping people.
+### Hi there 👋 
 
+I'm James Pamplona, I’m an iOS Developer passionate about developing software, creating solutions, and helping people.
 
+<!--
 ## Projects
 
 ### Be — Digital Fasting _iOS_
@@ -15,8 +17,7 @@
 ## Skills
 
 ## About
-
-
+-->
 <!--
 **toastersocks/toastersocks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
